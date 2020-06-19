@@ -2,7 +2,7 @@ var Habbo = require('./habbo/checkUser');
 const fs = require('fs');
 
 /*
-function random(count){
+function random(count){f
     var str = '';
     var chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_-=?!@:.,';
     for(var i = 0; i < count; i++){
